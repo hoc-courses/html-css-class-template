@@ -1,6 +1,6 @@
 
 ## Overview
-* [Course Procedures](./Course-Procedures)
+* [Course Procedures](./course-procedures.md)
 
 ## Labs
 
