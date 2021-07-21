@@ -8,7 +8,7 @@ Today we will be setting up our computers for software development and introduci
 * install software checklist
 * command Line Interface (CLI) Intro
 * Git/GitHub Intro
-* GitHub Classroom Assignments
+* GitHub Classroom Assignments Intro
 
 
 ## Learning Objectives
