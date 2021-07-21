@@ -1,4 +1,4 @@
-Course Procedures for Web Dev Fall 2021
+# Welcome to Web Dev Fall 2021
 
 ## Instructor Info
 Anne Chinn
