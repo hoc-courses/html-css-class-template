@@ -27,6 +27,6 @@ Both assignments and labs will be distributed through [GitHub Classroom](https:/
 
 There will be periodic quizzes, through Google Classroom, to help re-enforce concepts.
 
-### Google Classroom
+## Google Classroom
 We will be using Google Classroom to post assignments and labs with their due dates.
 
