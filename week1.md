@@ -37,10 +37,10 @@ Sun | Article - Part 1 Lab :red_circle: | Lab Due | Sun BOC
 
  **EOC** - End of Class
 
- **Tue BOC** - Tuesday (this week) Beginning of Class
+ **Tue BOC** - Tuesday (next) Beginning of Class
 
  **Tue BOC 2/17** - Tuesday (2/17) Beginning of Class
- 
+
  **OPT** - Optional
 
 
