@@ -5,6 +5,8 @@ This week we will be setting up our computers for software development and intro
 * Version Control - Git/GitHub
 * Code Editor - Visual Studio Code
 
+Then, we'll dive into the basics of HTML and creating our first web pages.
+
 ### Schedule
 
 Day | Task | Type | Due 
