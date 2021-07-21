@@ -21,7 +21,7 @@ Tue | Read through [Basic Elements](https://chnn-anne.gitbook.io/html-css/html/b
 Tue | [Evolution of the Web Page](https://chnn-anne.gitbook.io/html-css/how-the-web-works/evolution-of-the-web-page) <br/>[How a Web Page is Loaded](https://chnn-anne.gitbook.io/html-css/how-the-web-works/how-a-web-page-gets-loaded) | Lecture/Demo | 
 Tue | Chrome Dev Tools Intro Lab | In-class Lab | 
 Tue | [VS Code Config](https://github.com/hoc-courses/shared-resources/blob/main/vs-code-intro.md) | Lecture/Demo | 
-Tue | Basic HTML Elements | Lecture/Demo | 
+Tue | [Basic Elements](https://chnn-anne.gitbook.io/html-css/html/basic-elements) | Lecture/Demo | 
 Tue | Basic HTML Elements - Favorites Lab | In-class Lab | 
 Tue | HTML Basic Elements Lab | Lab Assigned | Sun BOC
 Thu | Read Through [Element Flow](https://chnn-anne.gitbook.io/html-css/html/element-flow) topics | Prep | BOC
