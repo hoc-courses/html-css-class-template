@@ -53,7 +53,6 @@ Read [Layout](https://chnn-anne.gitbook.io/html-css/html/layout) | Prep<br/>HW |
 
 This week we will go further into HTML elements and how they flow on the page.
 
-<br/>
 
 ### Sunday
 Task | Type | Due 
