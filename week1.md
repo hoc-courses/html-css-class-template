@@ -22,7 +22,6 @@ Task | Type | Due
 Git Bash Shell Lab :white_circle:  | In-class Lab <br/>HW | Tue BOC
 Watch [How the Internet Works](https://chnn-anne.gitbook.io/html-css/how-the-web-works/dns-tcp-ip-http-html) videos. <br/>Be prepared to discuss the questions after each video in the next class.<br/><br/> Read through the [HTML Intro](https://chnn-anne.gitbook.io/html-css/html-css-intro/html-intro) and [CSS Intro](https://chnn-anne.gitbook.io/html-css/html-css-intro/css-intro) topics to familiarize yourself with common HTML elements and CSS styles. | Prep<br/>HW| Tue BOC |
 
-<br/>
 
 ### Tuesday
 Task | Type | Due 
