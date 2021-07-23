@@ -7,6 +7,8 @@ This week we will be setting up our computers for software development and intro
 
 Then, we'll dive into how the web works and the basics of HTML and CSS.
 
+<br/>
+
 ### Pre-class
 
 Task | Type | Due 
@@ -14,6 +16,7 @@ Task | Type | Due
  [Install Software](https://github.com/hoc-courses/shared-resources/blob/main/software-installation.md) | Prep | Sun BOC
 Read [Git Intro](https://github.com/hoc-courses/shared-resources/blob/main/git-github-intro.md), through [video](https://www.youtube.com/watch?v=rbZf3lPMOYY&list=PLVYDhqbgYpYXbAL_Hps1Y--THRmaTFipj&index=9) | Prep | Sun BOC
 
+<br/>
 
 ### Sunday
 Task | Type | Due 
@@ -22,6 +25,7 @@ Task | Type | Due
 Git Bash Shell Lab :white_circle:  | In-class Lab <br/>HW | Tue BOC
 Watch [How the Internet Works](https://chnn-anne.gitbook.io/html-css/how-the-web-works/dns-tcp-ip-http-html) videos. <br/>Be prepared to discuss the questions after each video in the next class.<br/><br/> Read through the [HTML Intro](https://chnn-anne.gitbook.io/html-css/html-css-intro/html-intro) and [CSS Intro](https://chnn-anne.gitbook.io/html-css/html-css-intro/css-intro) topics to familiarize yourself with common HTML elements and CSS styles. | Prep<br/>HW| Tue BOC |
 
+<br/>
 
 ### Tuesday
 Task | Type | Due 
@@ -33,6 +37,7 @@ HTML Basic Elements Lab :white_circle: | Lab<br/>HW | Thu BOC
 Read [Element Flow](https://chnn-anne.gitbook.io/html-css/html-css-intro/element-flow) | Prep<br/>HW| Thu BOC |
 
 <br/>
+
 ### Thursday
 Task | Type | Due 
 -------|:-:|:-:
