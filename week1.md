@@ -23,7 +23,7 @@ Task | Type | Due
 -------|:-:|:-:
 [Setup](https://github.com/hoc-courses/shared-resources/blob/main/software-installation.md)<br/>[Terminal CLI](https://github.com/hoc-courses/shared-resources/blob/main/terminal-cli-intro.md)<br/> [Git/GitHub](https://github.com/hoc-courses/shared-resources/blob/main/git-github-intro.md)<br/>  [GitHub Classroom Assignments Intro](https://github.com/hoc-courses/shared-resources/blob/main/github-classroom-intro.md) | Lecture/Demo | 
 Git Bash Shell Lab :white_circle:  | In-class Lab <br/>HW | Tue BOC
-Watch [How the Internet Works](https://chnn-anne.gitbook.io/html-css/how-the-web-works/dns-tcp-ip-http-html) videos. <br/>Be prepared to discuss the questions after each video in the next class.<br/><br/> Read through the [HTML Intro](https://chnn-anne.gitbook.io/html-css/html-css-intro/html-intro) and [CSS Intro](https://chnn-anne.gitbook.io/html-css/html-css-intro/css-intro) topics to familiarize yourself with common HTML elements and CSS styles. | Prep<br/>HW| Tue BOC |
+Watch [How the Internet Works](https://chnn-anne.gitbook.io/html-css/how-the-web-works/dns-tcp-ip-http-html) videos. <br/>Answer questions.<br/><br/> Read [HTML Intro](https://chnn-anne.gitbook.io/html-css/html-css-intro/html-intro) and [CSS Intro](https://chnn-anne.gitbook.io/html-css/html-css-intro/css-intro) | Prep<br/>HW| Tue BOC |
 
 <br/>
 
