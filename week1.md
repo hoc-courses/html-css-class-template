@@ -8,7 +8,8 @@ This week we will be setting up our computers for software development and intro
 Then, we'll dive into how the web works and the basics of HTML and CSS.
 
 <br/>
-###Pre-class
+
+### Pre-class
 
 Task | Type | Due 
 -------|:-:|:-:
