@@ -14,7 +14,7 @@ Task | Type | Due
  [Install Software](https://github.com/hoc-courses/shared-resources/blob/main/software-installation.md) | Prep | Sun BOC
 Read [Git Intro](https://github.com/hoc-courses/shared-resources/blob/main/git-github-intro.md), through [video](https://www.youtube.com/watch?v=rbZf3lPMOYY&list=PLVYDhqbgYpYXbAL_Hps1Y--THRmaTFipj&index=9) | Prep | Sun BOC
 
-<br/>
+
 ### Sunday
 Task | Type | Due 
 -------|:-:|:-:
