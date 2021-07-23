@@ -48,6 +48,7 @@ Article - Part 1 Lab :white_circle: | Lab<br/>HW | Sun BOC
 Read [Layout](https://chnn-anne.gitbook.io/html-css/html/layout) | Prep<br/>HW | Sun BOC
 
 <br/>
+
 # Week at a Glace - Week 2
 
 This week we will go further into HTML elements and how they flow on the page.
