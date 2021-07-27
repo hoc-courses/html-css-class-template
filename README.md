@@ -4,7 +4,7 @@
 Anne Chinn
 Email: achinn@nwlink.com
 
-## Course Subject Notes
+## Course Reading Material
 https://chnn-anne.gitbook.io/html-css
 
 ## Textbook (Optional - for reference)
