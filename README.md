@@ -1,4 +1,4 @@
-# Welcome to Web Dev Fall 2021
+# Welcome to HTML/CSS Fall 2021
 
 ## Instructor Info
 Anne Chinn
@@ -13,20 +13,17 @@ An electronic version is available for free from Seattle Public Library.
 https://seattle.bibliocommons.com/v2/record/S30C3572291
 
 ## Timeline
-* Week 1 - Intro/HTML
-* Week 2 - Semantic HTML/Layout
-* Week 3 - CSS
-* Week 4 - Advanced CSS
+* Week 1 - Intro HTML/CSS
+* Week 2 - Intermediate CSS
+* Week 3 - Grid/Flex
+* Week 4 - Final Project
 
-## Assignments/Labs/Quizzes
-Assignments are larger than labs and will require time (around 10 hours each) to complete properly.
+## Labs/Quizzes
 
-Labs are shorter exercises. Labs are meant to reinforce ideas and concepts covered. They typically should not require more than two hours of work each. 
+Labs will be distributed through [GitHub Classroom](https://github.com/hoc-courses/shared-resources/blob/main/github-classroom-intro.md). 
 
-Both assignments and labs will be distributed through [GitHub Classroom](https://github.com/hoc-courses/shared-resources/blob/main/github-classroom-intro.md). 
+There will be periodic quizzes, through the LMS, to help re-enforce concepts.
 
-There will be periodic quizzes, through Google Classroom, to help re-enforce concepts.
-
-## Google Classroom
-We will be using Google Classroom to post assignments and labs with their due dates.
+## LMS
+We will be using LMS to post assignments and labs with their due dates.
 
