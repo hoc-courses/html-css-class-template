@@ -41,7 +41,7 @@ A set of Markdown files overviewing the modules for the course and the labs,demo
 
 **TODO:** Ideally, we would eventually create a class-by-class guide for what should be covered, referencing the course material, demos, and labs. This requires agreeing on what content should be covered, the pace, etc.
 
-#### Class Instance Repo
+## Class Instance Repo
 At the beginning of each class run the instructor would create a class repo. The repo is read-only to students, but writable by the instructor.
 
 It consists of a few Markdown pages for class mechanics:
