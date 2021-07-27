@@ -37,7 +37,7 @@ Demos are available for instructors to use during class to introduce new topics.
 #### Instructor Course Guide
 A set of Markdown files overviewing the modules for the course and the labs,demos available.
 
-[Instructors' Guide Repo](https://github.com/hoc-courses/html-css-instructor-guide)
+[Instructors' Guide Repo](https://github.com/hoc-courses/html-css-instructor-guide#readme)
 
 **TODO:** Ideally, we would eventually create a class-by-class guide for what should be covered, referencing the course material, demos, and labs. This requires agreeing on what content should be covered, the pace, etc.
 
